@@ -5,8 +5,7 @@ Look, we get it. You need a website that doesn't suck, but you're probably tired
 ## What You Get:
 
 -   A website that actually looks good
--   Hosting (so it stays online)
--   Business email that doesn't end in @gmail.com
+-   Hosting (so it stays online) with your own domain
 -   Payment stuff if you need it
 -   Login systems for your customers
 -   We'll update the design when you need changes

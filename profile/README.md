@@ -22,7 +22,7 @@ No BS. No "starting at" prices that triple later.
 
 ## Why Work With Us?
 
-We're not asking for $10k upfront like everyone else. You see the site first, then decide. Everything's included in one price - no surprise invoices for hosting or random fees.
+You see the site first, then decide. Everything's included in one price - no surprise invoices for hosting or random fees.
 
 Plus, we actually answer our emails.
 
